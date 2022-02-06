@@ -43,7 +43,7 @@ class produtoController extends Controller
 
     public function comprarProdutoCar($id, Request $request)
     {
-        $produto_car = CarrinhoProduto::find(5);
+        $produto_car = CarrinhoProduto::find($id);
         $request->session()->put('info_prod_temp', ['produto_id' => $produto_car->produto_id, "quantidade" => $produto_car->quantidade]);
         return redirect('/comprar/produto/' . $produto_car->produto_id);
     }

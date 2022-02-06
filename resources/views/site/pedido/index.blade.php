@@ -29,7 +29,7 @@
                 </table>
                 <div class="col-md-12 p-3 d-md-flex justify-content-md-end">
                     <a href="{{url('/produtos')}}" class="btn btn-white" type="button">Voltar</a>
-                    <a href="{{url('/comprar/finalizar_compra/5')}}" class="btn btn-primary" type="button">Finalizar Compra</a>
+                    <a href="{{url('/comprar/finalizar_compra/'.$produto_info->id)}}" class="btn btn-primary" type="button">Finalizar Compra</a>
                 </div>
             </div>
         </div>
