@@ -1,0 +1,39 @@
+nav{
+    padding: 18px !important;
+    border-bottom: 3px solid #19adde;
+}
+nav .logo{
+    color: #19adde !important;
+    font-size: 1.6em;
+    font-weight: bold;
+}
+nav ul li a{
+    color: #f7fafc !important;
+    font-size: 1.1em;
+    padding: 15px 18px !important;
+}
+nav ul li a:hover{
+    transition: 0.5s;
+    color: #19adde !important;
+    background-color: #232325;
+    text-shadow: #0e5177 0px 0px 8px;
+}
+
+
+.ultimos_cadastros{
+    text-align: center;
+    padding: 28px;
+}
+
+.infoText_prod{
+    text-align: center !important;
+    border:1px solid #cbd5e0;
+}
+.info_desc{
+    text-align: center !important;
+    padding: 25px !important;
+}
+.box_border{
+    border: 1px solid #c5c5c5;
+    padding: 15px;
+}
