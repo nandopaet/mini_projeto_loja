@@ -7,4 +7,4 @@
 
 <p>/ - raiz do site.</p>
 
-<p>/painel - área administrativa..</p>
+<p>/painel - área administrativa.</p>
