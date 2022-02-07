@@ -1,10 +1,10 @@
-1° - crie o banco loja.
-2° - configure o arquivo .env
-3° - rode o migratrion do artisan
-4° - rode o comando para executar o server
+<p>1° - crie o banco loja.</p>
+<p>2° - configure o arquivo .env.</p>
+<p>3° - rode o migratrion do artisan.</p>
+<p>4° - rode o comando para executar o server.</p>
 
-__
+<p>__</p>
 
-/ - raiz do site
+<p>/ - raiz do site.</p>
 
-/painel - área administrativa.
+<p>/painel - área administrativa..</p>
